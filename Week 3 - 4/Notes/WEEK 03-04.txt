@@ -1,0 +1,4 @@
+Transcribe interview data and share between teams (Both Slack groups have an interviewdata channel that industry partners aren't part of).
+Highlight key points from each interview data
+Start a frame in MIRO and call it an affinity map
+Start putting post it notes on the Miro board (watch this video to help)

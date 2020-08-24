@@ -1,0 +1,27 @@
+DFNZ701 - Assignment-02-Part-01 
+Brief: Pitch and Present
+Team: Destination Hamilton
+-------------------------------
+Folder Structure
+├───A02P01-Outcomes
+└───A02P01-Slides
+    └───Slides Exports
+        ├───Extras
+        ├───PDF
+        ├───PNG
+        └───SVG
+-------------------------------
+Timothy Howard 
+timhow37@student.wintec.ac.nz
+
+Sean Grimson
+Seagri17@student.wintec.ac.nz
+
+Graeme Cook
+nittho31@student.wintec.ac.nz
+
+Nithin Sugathan
+gracoo75@student.wintec.ac.nz
+
+Kieran Cave
+kiecav29@student.wintec.ac.nz
